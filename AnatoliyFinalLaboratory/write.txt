@@ -1,0 +1,4 @@
+4
+House Father 0 0 True
+House Mama 2 3 4
+House Tolya 1 2 3
